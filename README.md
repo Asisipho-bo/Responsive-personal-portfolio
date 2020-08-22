@@ -17,7 +17,7 @@ Project is created with:
 * CSS
 
 ## Setup
-To run this project, install it locally 
+To run this project, install it locally. 
 
 ## Features
 
