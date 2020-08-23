@@ -10,7 +10,7 @@ Building a repsonsive personal portfolio website using HTML, and CSS
 * [Status](#status)
 
 ## General Info
-This project is a responsive blogpost website.
+This project is a responsive personal portfolio website.
 ## Technologies
 Project is created with:
 * HTML
